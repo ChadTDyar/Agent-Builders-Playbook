@@ -1,0 +1,16 @@
+# Agent Spec Template
+
+name: <agent-name>
+description: <what does this agent do?>
+inputs:
+  - name: <input-name>
+    type: <string|number|etc>
+    description: <what is this input?>
+outputs:
+  - name: <output-name>
+    type: <string|number|etc>
+    description: <what is this output?>
+steps:
+  - <step 1>
+  - <step 2>
+  - ...
